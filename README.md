@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**marinadesousa/marinadesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="justify"> Olá, sou a Marina Sousa</p>
 
-Here are some ideas to get you started:
+   ## Formação e Apredizado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Atualmente não estou trabalhando, mas estou finalizando o terceiro ano do ensino médio e sou estudante do curso 
+    Front-end uma parceria com a Ford Motor Academy e o Senai-SP.
+    Quero colaborar com o Front-end. Tenho 17 anos, meus pronomes são ela/dela.
+    Estou procurando ajuda com programação, pergunte-me sobre assuntos relacionados a programação.
+
+### Para entrar em contato comigo: e-mail: sousamarina@gmail.com
+
+#### Curiosidades
+
+      Gosto de ler vários tipos de livros, assistir séries e filmes, gosto da área de tecnologia
+      e biologia amo moda, gatos e sou apaixonada na natureza.
+
+    
