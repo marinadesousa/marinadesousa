@@ -8,12 +8,9 @@
     Front-end uma parceria com a Ford Motor Academy e o Senai-SP.
     Quero colaborar com o Front-end. Tenho 17 anos, meus pronomes são ela/dela.
     Estou procurando ajuda com programação, pergunte-me sobre assuntos relacionados a programação.
-
-### Para entrar em contato comigo: e-mail: sousamarina@gmail.com
-
+    
 #### Curiosidades
 
-      Gosto de ler vários tipos de livros, assistir séries e filmes, gosto da área de tecnologia
-      e biologia amo moda, gatos e sou apaixonada na natureza.
+      Gosto de ler vários tipos de livros, assistir séries e filmes, gosto da área de tecnologia. e biologia amo moda, gatos e sou apaixonada na natureza.
 
     
